@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: McStugan
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 79.46.31.53:3498
+serverIP: play.mcstugan.xyz
 
 
 # Discord information
