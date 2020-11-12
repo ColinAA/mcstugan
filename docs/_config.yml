@@ -24,11 +24,11 @@ discordChannelID: 776373463807426561
 
 # Navbar Links at the top of the page
 # Uncomment this section to add page functionality!
-# siteNav:
-#   - nname: Player Guide
-#     nurl: guide
-#   - nname: About
-#     nurl: about
+ siteNav:
+   - nname: Player Guide
+     nurl: guide
+  - nname: About
+    nurl: about
 
 
 # Build settings
